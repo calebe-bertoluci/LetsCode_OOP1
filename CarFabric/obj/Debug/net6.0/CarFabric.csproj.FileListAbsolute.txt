@@ -1,0 +1,15 @@
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/bin/Debug/net6.0/CarFabric
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/bin/Debug/net6.0/CarFabric.deps.json
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/bin/Debug/net6.0/CarFabric.runtimeconfig.json
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/bin/Debug/net6.0/CarFabric.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/bin/Debug/net6.0/CarFabric.pdb
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.csproj.AssemblyReference.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.AssemblyInfoInputs.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.AssemblyInfo.cs
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.csproj.CoreCompileInputs.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/refint/CarFabric.dll
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.pdb
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/CarFabric.genruntimeconfig.cache
+/Users/novo/Documents/GitHub/LetsCode/LetsCode_OOP1/CarFabric/obj/Debug/net6.0/ref/CarFabric.dll
