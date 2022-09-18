@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B076383C-45F8-415E-AD3A-376A538A9220}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Projeto__WEBAPI__CalebeBertoluci PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Context/DataGenerator.cs">
+    <Files>
+      <File FileName="Context/DataGenerator.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projeto_WEBAPI_CalebeBertoluci" expanded="True">
+            <Node name="Projeto_WEBAPI_CalebeBertoluci" expanded="True">
+              <Node name="Context" expanded="True">
+                <Node name="DataGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

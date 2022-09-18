@@ -1,0 +1,102 @@
+[
+  {
+    "name": "All In: The Family",
+    "year": "2020",
+    "imdb_rating": "6.8",
+    "movie_poster": null,
+    "genres": "Comedy , Crime , Drama , Mystery , Thriller",
+    "directors": null,
+    "cast": "Brad Pitt",
+    "similar_movies": "The Family Man (2000)"
+  },
+  {
+    "name": "The Razor's Edge",
+    "year": "1984",
+    "imdb_rating": "6.6",
+    "movie_poster": null,
+    "genres": "Drama , Romance , War",
+    "directors": "John Byrum",
+    "cast": "Bill Murray",
+    "similar_movies": "The Razor's Edge (1946)"
+  },
+  {
+    "name": "The Aftermath",
+    "year": "1982",
+    "imdb_rating": "4.3",
+    "movie_poster": null,
+    "genres": "Sci-Fi , Thriller",
+    "directors": "Steve Barkett",
+    "cast": "Sid Haig",
+    "similar_movies": "Errors of the Human Body (2012)"
+  },
+  {
+    "name": "Baby Doll",
+    "year": "1956",
+    "imdb_rating": "7.4",
+    "movie_poster": null,
+    "genres": "Comedy , Drama",
+    "directors": "Elia Kazan",
+    "cast": "Eli Wallach",
+    "similar_movies": "Baby's Day Out (1994)"
+  },
+  {
+    "name": "Natural City",
+    "year": "2003 ",
+    "imdb_rating": "5.7",
+    "movie_poster": null,
+    "genres": "Action , Drama , Sci-Fi , Thriller",
+    "directors": "Byung-chun Min",
+    "cast": "Angelina Jolie",
+    "similar_movies": "Natural Born Killers (1994)"
+  },
+  {
+    "name": "Terror Express",
+    "year": "1980 ",
+    "imdb_rating": "5.1",
+    "movie_poster": null,
+    "genres": "Drama , Thriller",
+    "directors": "Ferdinando Baldi",
+    "cast": "Tim Barton",
+    "similar_movies": "The Sugarland Express (1974)"
+  },
+  {
+    "name": "Running Wild: The Life of Dayton O. Hyde",
+    "year": "2013",
+    "imdb_rating": "7.6",
+    "movie_poster": null,
+    "genres": "Biography , Documentary , History , Western",
+    "directors": "Suzanne Mitchell",
+    "cast": "Samuel Al Jackson",
+    "similar_movies": "Hyde Park on Hudson (2012)"
+  },
+  {
+    "name": "All at Sea",
+    "year": "2010",
+    "imdb_rating": "5.9",
+    "movie_poster": null,
+    "genres": "Comedy , Drama",
+    "directors": "Robert Young",
+    "cast": "Brian Cox",
+    "similar_movies": "Snow Dogs (2002)"
+  },
+  {
+    "name": "Picture Mommy Dead",
+    "year": "1966",
+    "imdb_rating": "5.4",
+    "movie_poster": null,
+    "genres": "Horror , Thriller",
+    "directors": "Bert I. Gordon",
+    "cast": "Anna Lee",
+    "similar_movies": "Dead Snow 2: Red vs. Dead (2014)"
+  },
+  {
+    "name": "Corpse Prison: Part Two",
+    "year": "2017 ",
+    "imdb_rating": "6.3",
+    "movie_poster": null,
+    "genres": "Horror",
+    "directors": "Hideo Jôjô",
+    "cast": "Megan Fox",
+    "similar_movies": "Beautiful Prison (2016)"
+  }
+]
